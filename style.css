@@ -1,0 +1,24 @@
+img{
+    width: 25%;
+    border-radius: 50%;
+}
+*{
+    background-color: #c496a1;
+    text-align: center;
+    color: #643843;
+    font-family: Roboto;
+}
+.books{
+    list-style-image: url('pictures/book.gif');
+}
+ul.hobbies {
+    list-style-type: none; 
+    padding: 0;
+}
+li img {
+    width: 20px; 
+    margin-right: 10px;
+}
+div.container {
+    text-align: center;
+  }
